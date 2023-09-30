@@ -1,0 +1,2 @@
+# 3d-circle-animation
+ This GitHub repository contains a captivating 3D loading animation created using HTML and CSS. The animation features a mesmerizing array of concentric circles that appear to move in three-dimensional space, offering a visually engaging loading indicator for web applications. Easily customizable and ready to integrate, this loading animation adds a touch of sophistication to your web projects.
